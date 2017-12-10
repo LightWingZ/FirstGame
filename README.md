@@ -22,12 +22,15 @@ Ideas from Ward:
  - Sims-style simulation (or maybe Dwarf Fortress?)
  - "game runs without you", AI have agendas, schedules, etc
  - consider doing in VR!
-
+***************************************
 
 Jeff Ideas based Upon Wards:
 
 All 3 ideas are really fun!
+
 I think the easiest would be:
+
+
 1: 3D Hogwarts Simulator
 Pros:
  - Does not include certain game elements stated above (xp, lvling, enemies, health, enemy AI, etc)
@@ -41,7 +44,7 @@ Questions:
 - Would we just initially created the castle first? or something more simple.. like the house where Harry Potter grew up first to get our feet wet on creating the content?
 - If it goes well, could we also build lthe towns sourounding hogwarts? Or create the Ministry of Magic?
 - Windgardium Leviosa?
-
+*********************************************************
 2: 3D dungeon Crawling
  Pros:
  - More of a "game" thatn 3D hogwarts
@@ -55,8 +58,7 @@ Questions:
  Questions:
  - Have a story line?
  - I would recommend making a simple game at first. Maybe have 1 -2 NPC's for a simple story like, "They took our candle! Go get it back!" (Kobalt)
-
-
+*********************************************************
 3: 3D Racing game
   Pros:
   - I always wanted to make a "better" F-Zero type game
@@ -71,8 +73,6 @@ Questions:
   - I would rather make an arcade type game as the FIRST iteration. What do you think?
   - Since we don't have any licenses to use brands, what kind of racing would you want to do?
   - How many tracks were you thinking of having at first? 1 -3?
-  
-  
   
   **********************************
   This was my initial thoughts from your input.
