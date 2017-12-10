@@ -36,7 +36,7 @@ I think the easiest would be:
 Pros:
 
  - Does not include certain game elements stated above (xp, lvling, enemies, health, enemy AI, etc)
- - Could create something simple first like creating the cafeteria place that they eat in to see how model creation tools work
+ - Could create something simple first like creating the cafeteria place where they eat in to see how model creation tools work
  - Be a good introduction to  using VR to "tour" the castle
  - Not too much "extra" gameplay for the initial game
  
