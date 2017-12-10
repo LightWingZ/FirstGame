@@ -55,7 +55,7 @@ Questions:
 
  Pros:
  
- - More of a "game" thatn 3D hogwarts
+ - More of a "game" than 3D Hogwarts
  - Fun to create a Dialo type game
  - Good for learning Enemy AI, balancing, smaller custom graphics (for unique weapons, items, etc)
  - Could "buy" asses easliy for a dungeon crawler from Unity Store
