@@ -32,44 +32,62 @@ I think the easiest would be:
 
 
 1: 3D Hogwarts Simulator
+
 Pros:
+
  - Does not include certain game elements stated above (xp, lvling, enemies, health, enemy AI, etc)
  - Could create something simple first like creating the cafeteria place that they eat in to see how model creation tools work
  - Be a good introduction to  using VR to "tour" the castle
  - Not too much "extra" gameplay for the initial game
+ 
 Cons:
+
  - VERY content oriented. Longer uptime to learn how to create custom content
  - To make a good simulation, would need more detailed models etc since those would be the highlight of the simulation than the other games
+ 
 Questions:
+
 - Would we just initially created the castle first? or something more simple.. like the house where Harry Potter grew up first to get our feet wet on creating the content?
 - If it goes well, could we also build lthe towns sourounding hogwarts? Or create the Ministry of Magic?
 - Windgardium Leviosa?
 *********************************************************
 2: 3D dungeon Crawling
+
  Pros:
+ 
  - More of a "game" thatn 3D hogwarts
  - Fun to create a Dialo type game
  - Good for learning Enemy AI, balancing, smaller custom graphics (for unique weapons, items, etc)
  - Could "buy" asses easliy for a dungeon crawler from Unity Store
+ 
  Cons:
+ 
  - More programming required than 3D Hogwarts. Need to implement an XP/Lvling system as well as a battle system
  - More complicated object collision system will need to be implemented
  - Very easy to go over the initial scope of the game (since it would be a lot of fun to create more themes)
+ 
  Questions:
+ 
  - Have a story line?
  - I would recommend making a simple game at first. Maybe have 1 -2 NPC's for a simple story like, "They took our candle! Go get it back!" (Kobalt)
 *********************************************************
 3: 3D Racing game
+
   Pros:
+  
   - I always wanted to make a "better" F-Zero type game
   - It would be a lot of fun creating the race track assets
   - I would rather make it more of an Arcade control theme for the first game since that would require a LOT less physics work
   - It also would be a good introduction to game AI programming for the AI racers
   - Could help teach us how to correctly input contorls from both keyboard/mouse and game controller
+  
   Cons:
+  
   - The physics could get...complicated depending on what type of racing game we make
   - Might have to buy racing car assest from the Unity Asset store
+  
   Questions:
+  
   - I would rather make an arcade type game as the FIRST iteration. What do you think?
   - Since we don't have any licenses to use brands, what kind of racing would you want to do?
   - How many tracks were you thinking of having at first? 1 -3?
